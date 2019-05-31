@@ -1,2 +1,2 @@
-# vue-electron
-this is a vue-electron demo
+# electron-vue
+this is a electron-vue demo
